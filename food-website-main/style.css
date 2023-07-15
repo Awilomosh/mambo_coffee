@@ -534,6 +534,7 @@ ul {
     background-position: 0 90%;
     background-repeat: no-repeat;
     display: inline;
+    font: optional;
     transition: 0.8s cubic-bezier(0.22, 0.78, 0.45, 1.02);
 }
 
